@@ -23,6 +23,5 @@ type: standard
   - family-names: "Hankin"
     given-names: "Steve"
     orcid: ""
-  - name: "The CF Community"
   url: "https://cfconventions.org"
   doi: "10.0000/00000"
