@@ -12,3 +12,8 @@ preferred-citation:
   - family-names: "Eaton"
     given-names: "Brian"
     orcid: "https://orcid.org/0000-0002-4433-3339"
+  identifiers:
+  - type: url
+    value: "https://cfconventions.org"
+  - type: doi
+    value: "10.0000/00000"
