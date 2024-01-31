@@ -1,47 +1,6 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this standards document, please cite it as below."
 type: standard
 title: "NetCDF Climate and Forecast (CF) Metadata Conventions"
 authors:
 - name: "The CF Community"
-preferred-citation:
-type: standard
-  title: "NetCDF Climate and Forecast (CF) Metadata Conventions"
-  authors:
-  - family-names: "Eaton"
-    given-names: "Brian"
-    orcid: "https://orcid.org/0000-0002-4433-3339"
-  - family-names: "Gregory"
-    given-names: "Jonathan"
-    orcid: "https://orcid.org/0000-0003-1296-8644"
-  - family-names: "Drach"
-    given-names: "Bob"
-    orcid: ""
-  - family-names: "Taylor"
-    given-names: "Karl"
-    orcid: "https://orcid.org/0000-0002-6491-2135"
-  - family-names: "Hankin"
-    given-names: "Steve"
-    orcid: ""
-preferred-citation:
-  type: standard
-  title: "NetCDF Climate and Forecast (CF) Metadata Conventions"
-  authors:
-  - family-names: "Eaton"
-    given-names: "Brian"
-    orcid: "https://orcid.org/0000-0002-4433-3339"
-  - family-names: "Gregory"
-    given-names: "Jonathan"
-    orcid: "https://orcid.org/0000-0003-1296-8644"
-  - family-names: "Drach"
-    given-names: "Bob"
-    orcid: ""
-  - family-names: "Taylor"
-    given-names: "Karl"
-    orcid: "https://orcid.org/0000-0002-6491-2135"
-  - family-names: "Hankin"
-    given-names: "Steve"
-    orcid: ""
-  - name: "The CF Community"
-  url: "https://cfconventions.org"
-  doi: "10.0000/00000"
