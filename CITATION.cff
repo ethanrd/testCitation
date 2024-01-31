@@ -8,7 +8,6 @@ preferred-citation:
   type: standard
   title: "NetCDF Climate and Forecast (CF) Metadata Conventions"
   authors:
-  - name: "CF Community"
   - family-names: "Eaton"
     given-names: "Brian"
     orcid: "https://orcid.org/0000-0002-4433-3339"
@@ -24,6 +23,7 @@ preferred-citation:
   - family-names: "Hankin"
     given-names: "Steve"
     orcid: ""
+  - name: "CF Community"
   identifiers:
   - type: url
     value: "https://cfconventions.org"
