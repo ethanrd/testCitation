@@ -14,18 +14,3 @@ version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2024-01-31
 url: "https://github.com/ethanrd/testCitation"
-preferred-citation:
-  type: generic
-  authors:
-  - family-names: "CF1"
-    given-names: "Cf1"
-    orcid: "https://orcid.org/0000-0000-0000-0000a"
-  - family-names: "CF2"
-    given-names: "cf2"
-    orcid: "https://orcid.org/0000-0000-0000-0000b"
-  doi: "10.0000/00000c"
-  title: "NetCDF Climate and Forecast (CF) Metadata Conventions"
-  version 1.12
-  doi: 10.5281/zenodo.1234
-  date-released: 2017-12-18
-  url: "https://cfconventions.org"
