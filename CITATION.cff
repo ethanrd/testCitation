@@ -6,11 +6,27 @@ abstract: "a good concise abstract."
 authors:
 - family-names: "MEMEMEME"
   given-names: "MeMeMe"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+  orcid: "https://orcid.org/0000-0000-0000-0000a"
 - family-names: "YOU"
   given-names: "You"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+  orcid: "https://orcid.org/0000-0000-0000-0000b"
+- family-names: "THEM"
+  given-names: "Them"
+  orcid: "https://orcid.org/0000-0000-0000-0000c"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2024-01-31
 url: "https://github.com/ethanrd/testCitation"
+preferred-citation:
+  type: generic
+  authors:
+  - family-names: "MEMEMEME"
+    given-names: "MeMeMe"
+    orcid: "https://orcid.org/0000-0000-0000-0000a"
+  - family-names: "YOU"
+    given-names: "You"
+    orcid: "https://orcid.org/0000-0000-0000-0000b"
+  - family-names: "THEM"
+    given-names: "Them"
+    orcid: "https://orcid.org/0000-0000-0000-0000c"
+  doi: "10.0000/00000c"
