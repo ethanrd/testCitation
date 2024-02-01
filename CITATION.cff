@@ -24,8 +24,5 @@ preferred-citation:
     given-names: "Steve"
     orcid: ""
   - name: "CF Community"
-  identifiers:
-  - type: url
-    value: "https://cfconventions.org"
-  - type: doi
-    value: "10.0000/00000"
+  url: "https://cfconventions.org"
+  doi: "10.0000/00000"
