@@ -3,7 +3,7 @@ message: "If you use this standards document, please cite it as below."
 type: standard
 title: "NetCDF Climate and Forecast (CF) Metadata Conventions"
 authors:
-- name: "The CF Community"
+- name: "CF Community"
 preferred-citation:
   type: standard
   title: "NetCDF Climate and Forecast (CF) Metadata Conventions"
